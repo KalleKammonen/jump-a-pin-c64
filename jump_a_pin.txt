@@ -1,0 +1,28 @@
+Jump-A-Pin
+**********
+Jump-A-Pin is a 2 player board game where the goal is to collect as many pins as possible.
+The player with the most pins (points) wins the game.
+
+You collect a pin by taking one pin and then jump over another pin into a hole in the board.
+The hole needs to be right after the pin that you are jumping over.
+Jumps can be made in all eight directions.
+The pin that you jumped over is removed from the board and you recieve one point.
+Multiple jumps are possible in one turn.
+
+Keys:
+A: Left
+D: Right
+S: Down
+E: Up
+1: Jump From - Player 1
+2: Jump From - Player 2
+T: Jump To (execute jump)
+
+A jump is done this way:
+The player moves to the pin to jump from with the direction keys.
+Press either 1 or 2, depending on which player, to select which pin to jump with.
+Navigate to the hole to jump to and press T.
+If the player can jump more than once in the turn, just repeat the procedure.
+
+When it's the other players turn, the other player just navigates to the desired pin
+and does the procedure for jumping with either button 1 or 2.
